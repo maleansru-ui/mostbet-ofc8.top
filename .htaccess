@@ -1,5 +1,5 @@
 ##############################################
-# .htaccess — mostbet-ofc7.top
+# .htaccess — mostbet-ofc8.top
 # Порядок: PHP → HTTPS → WWW → URL → Безопасность → Заголовки → Кэш → Сжатие
 ##############################################
 
@@ -31,7 +31,7 @@
     # RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
     # ── Партнёрская ссылка ───────────────────
-    RewriteRule ^mostbet/?$ https://qydnte.com/8BPU?sub1=mostbet-ofc7.top [R=302,L,NE]
+    RewriteRule ^mostbet/?$ https://qydnte.com/8BPU?sub1=mostbet-ofc8.top [R=302,L,NE]
 
     # ── Блокировка Chrome 44 (бот 2015 года) ─
     RewriteCond %{HTTP_USER_AGENT} Chrome/44 [NC]

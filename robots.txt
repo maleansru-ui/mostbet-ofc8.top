@@ -25,5 +25,5 @@ Allow: /
 Crawl-delay: 2
 Disallow: /mostbet
 
-Host: mostbet-ofc7.top
-Sitemap: https://mostbet-ofc7.top/sitemap.xml
+Host: mostbet-ofc8.top
+Sitemap: https://mostbet-ofc8.top/sitemap.xml
